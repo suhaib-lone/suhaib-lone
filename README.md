@@ -26,7 +26,7 @@
 
 ### 💼 Tech Stack
 
-<p style="font-size:18px">
+<p style="font-size:60px">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
@@ -53,7 +53,7 @@
 
 ### 🤝 Connect with Me
 
-<p style="font-size:18px">
+<p style="font-size:60px">
   <a href="https://linkedin.com/in/suhaibsareer">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" />
   </a>
