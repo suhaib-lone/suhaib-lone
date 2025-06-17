@@ -26,20 +26,21 @@
 
 ### 💼 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+<p style="font-size:18px">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
+</p>
 
 ---
 
 ### 📌 Pinned Projects
 
-Manually pin these projects from your GitHub profile (up to 6):
-
 - [Expense Tracker](https://github.com/suhaib-lone/expense-tracker)
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -52,15 +53,19 @@ Manually pin these projects from your GitHub profile (up to 6):
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/suhaibsareer)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square)](mailto:suhaibsareer09@gmail.com)
+<p style="font-size:18px">
+  <a href="https://linkedin.com/in/suhaibsareer">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" />
+  </a>
+  <a href="mailto:suhaibsareer09@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square" />
+  </a>
+</p>
 
 ---
 
 ### 👀 Visitor Counter
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone)
-
----
-
-🛠 *Built with ❤️ by Suhaib Lone*
+<p style="font-size:18px">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone" />
+</p>
