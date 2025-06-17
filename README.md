@@ -67,15 +67,4 @@ Manually pin these projects from your GitHub profile (up to 6):
 
 ---
 
-### 💡 Bonus Tips (Implemented for You)
-
-✔️ Typing animation using [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
-✔️ GitHub stats and streaks using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)  
-✔️ Trophy showcase using [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)  
-✔️ Visitor badge using [visitor-badge](https://visitor-badge.laobi.icu/)  
-✔️ Clickable social icons  
-✔️ Custom badges for tech stack using [shields.io](https://shields.io/)
-
----
-
 🛠 *Built with ❤️ by Suhaib Lone*
