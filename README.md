@@ -40,10 +40,6 @@
 Manually pin these projects from your GitHub profile (up to 6):
 
 - [Expense Tracker](https://github.com/suhaib-lone/expense-tracker)
-- [ML Model API](https://github.com/suhaib-lone/ml-api) *(if you make one)*
-- [React Frontend Project](#) *(Coming Soon)*
-- [GitHub Issue Classifier](#) *(Coming Soon)*
-
 ---
 
 ### 🏆 GitHub Trophies
