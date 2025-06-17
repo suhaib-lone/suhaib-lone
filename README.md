@@ -58,7 +58,7 @@
 <h3>🤝 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/suhaibsareer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" height="30"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" width="70" height="30"/>
   </a>
   <a href="mailto:suhaibsareer09@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square" height="30"/>
