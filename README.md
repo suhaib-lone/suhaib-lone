@@ -68,9 +68,8 @@
 
 ---
 
-### 👀 Visitor Counter
 
 <h3>👀 Visitor Counter</h3>
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone" height="28"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone" height="35"/>
 </p>
