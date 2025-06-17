@@ -35,7 +35,6 @@
 </p>
 
 
----
 <h3>📚 Frameworks & Libraries</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" height="40" width="140" />
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/-XGBoost-05122A?style=flat&logo=python" height="40" width="130" />
   <img src="https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib" height="40" width="140" />
 </p>
----
+
 <h3>🛠 Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" height="40" width="140" />
@@ -55,13 +54,11 @@
   <img src="https://img.shields.io/badge/-ChatGPT-05122A?style=flat&logo=openai" height="40" width="130" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-05122A?style=flat&logo=githubcopilot" height="40" width="180" />
 </p>
----
 <h3>🗄️ Databases</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" height="40" width="140" />
   <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" height="40" width="100" />
 </p>
----
 ### 📌 Pinned Projects
 
 - [Expense Tracker](https://github.com/suhaib-lone/expense-tracker)
