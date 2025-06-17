@@ -24,17 +24,16 @@
 
 ---
 
-### 💼 Tech Stack
-
 <h3>💼 Tech Stack</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="30"/>
-  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" height="30"/>
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" height="30"/>
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="30"/>
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="30"/>
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="30"/>
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" height="40" width="120" />
+  <img src="https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi" height="40" width="140" />
+  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" height="40" width="140" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" height="40" width="120" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" height="40" width="150" />
+  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" height="40" width="100" />
 </p>
+
 
 
 ---
@@ -53,15 +52,14 @@
 
 ---
 
-### 🤝 Connect with Me
 
 <h3>🤝 Connect with Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/suhaibsareer">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" width="70" height="30"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" height="40" width="140" />
   </a>
   <a href="mailto:suhaibsareer09@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square" height="30"/>
+    <img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&style=flat-square" height="40" width="120" />
   </a>
 </p>
 
@@ -71,5 +69,6 @@
 
 <h3>👀 Visitor Counter</h3>
 <p align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone" height="35"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=suhaib-lone.suhaib-lone" height="40" width="160" />
 </p>
+
