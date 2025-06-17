@@ -59,6 +59,9 @@
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" height="40" width="140" />
   <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql" height="40" width="100" />
 </p>
+
+---
+
 ### 📌 Pinned Projects
 
 - [Expense Tracker](https://github.com/suhaib-lone/expense-tracker)
